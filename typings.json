@@ -1,0 +1,9 @@
+{
+  "name": "creditcardutils",
+  "main": "creditcardutils.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for creditcardutils.",
+  "ambientDevDependencies": {
+    
+  }
+}
