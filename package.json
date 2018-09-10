@@ -1,8 +1,9 @@
 {
-    "name": "creditcardutils.d.ts",
+    "name": "@types/creditcardutils",
     "version": "1.0.0",
     "description": "A Typescript/Typings definition for creditcardutils.",
-    "main": "creditcardutils.d.ts",
+    "main": "index.d.ts",
+    "typings": "index.d.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -15,10 +16,5 @@
     "bugs": {
         "url": "https://github.com/nozzlegear/creditcardutils.d.ts/issues"
     },
-    "homepage": "https://github.com/nozzlegear/creditcardutils.d.ts#readme",
-    "typescript":{
-        "definitions":[
-            "creditcardutils.d.ts"
-        ]
-    }
+    "homepage": "https://github.com/nozzlegear/creditcardutils.d.ts#readme"
 }
